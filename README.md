@@ -1,7 +1,13 @@
-# 💫 Hi,I am Shreya Yadav
-I am a passionate developer who enjoys building full-stack web applications and improving problem-solving skills.<br><br>🌱 Currently learning: Advanced DSA & System Design Basics<br>💡 Interested in: MERN Stack Development & Software Engineering
+#  Hi👋,I am Shreya Yadav
+A passionate Full-Stack Developer from India 
 
+🔭 I'm currently working on MERN Stack Projects
 
+🌱 I'm currently learning Advanced DSA, System Design Basics, and Next.js
+
+💬 Ask me about MERN Stack Development, Java, JavaScript, React, Node.js, and MongoDB
+
+How to reach me:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shreya431) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyayadav4318@gmail.com) 
 
