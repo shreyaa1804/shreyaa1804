@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi,I am Shreya Yadav
 I am a passionate developer who enjoys building full-stack web applications and improving problem-solving skills.<br><br>🌱 Currently learning: Advanced DSA & System Design Basics<br>💡 Interested in: MERN Stack Development & Software Engineering
 
 
